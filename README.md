@@ -1,2 +1,2 @@
 # masso-pp
-masso pre-processor for QCAD/CAM
+masso post-processor for QCAD/CAM
